@@ -1,3 +1,4 @@
-label_appliances_new
-เปลี่ยน Power จากของ SM ไปเป็นผลรวมอุปกรณ์ทั้งหมดแล้ว
-***คำถาม*** ทำไมไฟล์นี้ถึงมีค่า Entertainment เป็น 1 แล้ว Fridge เป็น 0 แทนล่ะ? ผิดอะไรรึป่าว
+-label_appliances_new
+Changed Power from SM to whole appliances
+
+**Question** Why Entertainment is 1 and Fridge is 0?

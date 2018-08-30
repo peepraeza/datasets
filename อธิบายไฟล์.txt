@@ -1,10 +1,12 @@
-whole_house_smooth_in_July
-อันนี้จะเป็นผลรวมของทุกอุปกรณ์ ที่เป็นข้อมูลแบบ smooth แล้ว ไฟล์จะไม่มี header มีสองล้านกว่าแถว ข้อมูลตลอดทั้งเดือน July มีแค่ column เดียว
-ไม่จำเป็นต้องใช้ไฟล์นี้ แค่จะอธิบายเฉยๆ 55
+-whole_house_smooth_in_July
+this file is a whole appliances that smooth already. and no header, 2M+ rows, all July and has just one column.
+no need to use this file, I just want to tell.
 
-***ไฟล์ Train & Test***
-ไฟล์ Train ที่เฟินบอกให้พีไปเปลี่ยน Power จะอยู่ในโฟเดอร์ for_training นะ ในนั้นจะมี txt อธิบายอีกที
+***Train & Test Files***
+Train File that you told me to change the Power to whole appliances. it's in "for_training" folder. in there it has txt for explaining again
 
-ไฟล์ Test ที่บอกให้พีไปเปลี่ยน Power ก็อยู่ในไฟล์ for_testing ในนั้นก็จะมี txt อธิบายเหมือนกัน
+Test File is in "for_testing" folder, in there it has txt for explaining again
 
-****ในไฟล์ training ที่เฟินบอกให้มาอ่ะ พีสงสัยว่าทำไม Entertainment มันถึงเป็น 1 ตลอด แล้ว Fridge ถึงเป็น 0 ตลอดล่ะ ทำผิดไรรึป่าว?****
+****In training file that you gave me download. I wonder that why Entertainment is 1 all the time and Fridge is 0. Did you do something wrong? I don't know.
+
+I have to use English because Github can't read Thai. =__=

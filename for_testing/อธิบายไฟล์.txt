@@ -1,8 +1,7 @@
-label_appliances_one_day_new
-จะเป็นไฟล์ที่ตอนสร้าง label จะใช้ ตัวเทรนด์เป็น power_Router_old แล้วตัวเทสก็เป็นไฟล์ Router_2012-08-15 "ไฟล์ดิบ" ที่ยังไม่ผ่านการ moving avg
-แต่ตัวข้อมูล Power จะเป็นค่าผลรวมจากอุปกรณ์ทั้งหมด ไม่ใช่ค่าจาก SM แล้ว
+-label_appliances_one_day_new
+This file, when I created the label I used "power_Router_old.csv" for training and I used "Router_2012-08-15" raw file for testing
+but the Power data I changed from SM to whole appliances
 
-
-label_appliances_one_day_use_smooth_data_new
-จะเป็นไฟล์ที่ตอนสร้าง label จะใช้ ตัวเทรนด์เป็น power_Router_old แล้วตัวเทสก็เป็นไฟล์ Router_2012-08-15 "ไฟล์ที่ผ่าน moving avg"
-และตัว Power  จะเป็นค่าผลรวมจากอุปกรณ์ทั้งหมด ไม่ใช่ค่าจาก SM แล้ว
+-label_appliances_one_day_use_smooth_data_new
+This file, when I created the label I used "power_Router_old.csv" for training and I used "Router_2012-08-15" that smooth already for testing
+and the Power data I changed from SM to whole appliances
